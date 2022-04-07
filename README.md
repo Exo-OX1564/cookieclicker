@@ -1,2 +1,5 @@
 # cookieclicker
-Just a normal cookie clicker I made using python turtle,this was followed in a tutorial.
+Just a simple cookie clicker game I made using python turtle, this was followed in a tutorial.
+
+# Image
+I've attached the cookie image to cookie.gif!
